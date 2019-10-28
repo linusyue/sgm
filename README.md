@@ -1,6 +1,11 @@
 # sgm
 Semi-Global Matching evaluated with kitti groundtruth.  sgm Algo is from gishi523.
 
+### Requirement
+Opencv4.0
+libpng
+libpng++
+
 ### Compilation
 ```bash
 mkdir build && cd build
