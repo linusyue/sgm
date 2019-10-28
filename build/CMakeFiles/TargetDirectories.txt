@@ -1,0 +1,3 @@
+/home/linus/code/GITHUB/sgm/build/CMakeFiles/rebuild_cache.dir
+/home/linus/code/GITHUB/sgm/build/CMakeFiles/sgm.dir
+/home/linus/code/GITHUB/sgm/build/CMakeFiles/edit_cache.dir
